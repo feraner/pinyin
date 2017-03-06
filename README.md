@@ -3,6 +3,7 @@ pinyin
 
 Xiaolong PHP Pinyin Library
 
+
 <p>基于微软拼音库，仅支持简体中文，unicode编码，共20977个汉字</p>
 <p>API：</p>
 <p>1.判断给定的字符是否是汉字</p>
@@ -14,3 +15,5 @@ Xiaolong PHP Pinyin Library
 
 <p>算法和数据结构参考：http://zh.lucida.me/blog/lucida-pinyin-converter/</p>
 <p>感谢lucida的文章</p>
+
+thanks
